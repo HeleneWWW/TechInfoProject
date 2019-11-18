@@ -12,7 +12,7 @@
     <body style = "background-color: grey;">
 
 <div class='container'>
-    <div class="row align-items">
+    <div class="row align-items-">
     <div class="btn-group">
     <div class="dropdown">
   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
