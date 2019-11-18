@@ -1,4 +1,6 @@
-
+<?php
+include 'headerfooter.php';
+?>
 
 
 
@@ -11,34 +13,6 @@
     </head>
     <body style = "background-color: grey;">
 
-<div class='container'>
-    <div class="row align-items-">
-    <div class="btn-group">
-    <div class="dropdown">
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Menu
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-    <a class="dropdown-item" type="button" href="reparation.php">Réparation</a>
-    <a class="dropdown-item" type="button" href="contact.php">Contact</a>
-    <a class="dropdown-item" type="button" href="info.php">Qui sommes-nous ?</a>
-    
-  </div>
-  
-</div>
-<h1>INFO TECH</h1>
-<div class="container">
-<div class="row">
-<h1>Réparation</h1>
-</div>
-</div>
-
-
-
-
-    </div>
-    </div>
-</div>
 
 
 

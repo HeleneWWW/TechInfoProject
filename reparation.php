@@ -1,5 +1,5 @@
 <?php
-//echo "C'est la page réparation !";
+include 'headerfooter.php';
 
 ?>
 
